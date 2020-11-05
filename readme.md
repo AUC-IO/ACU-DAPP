@@ -1,5 +1,3 @@
-# 联合社区基金会
-
 ![auc](https://github.com/AUC-IO/AUC--DAPP/blob/main/auc.png)
 
 ## 1.简介
